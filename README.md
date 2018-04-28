@@ -16,3 +16,6 @@ Of course, you can try this [http://wego.genomics.org.cn/cgi-bin/wego/index.pl](
 # Usage
 python3 GO\_figure.py -i \<gene\_go\_file\> -o \<out\_prefix\> -l level2 --obo \<go-basic.obo\>
 
+picture example：
+
+![go picture](go.GO_distribution_under_level2.png)
